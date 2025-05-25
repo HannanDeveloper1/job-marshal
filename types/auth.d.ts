@@ -1,0 +1,1 @@
+type UserSelectionType = 'company' | 'jobSeeker' | null
